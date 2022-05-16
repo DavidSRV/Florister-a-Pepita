@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,900;1,400;1,700&family=Rubik:ital,wght@0,300;0,500;0,900;1,300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik';
+    width: 100%;
+    box-sizing: border-box;
+}
+
+ul{
+    font-size: 1.5rem;
+    border: 1px solid;
+    background: linear-gradient(70deg, #a2d2ff, rgb(12, 176, 226));
+
+}
